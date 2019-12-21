@@ -12,5 +12,5 @@ Uilisation d'un DHT11 pour le capteur de température (pcm homemade) : https://f
 
 Fichier d'impression disponible ici : https://www.thingiverse.com/thing:4060032
 
-Possibilité d'utiliser l'appli GambIe ClocK : 
+Possibilité d'utiliser l'appli GambIe ClocK : https://github.com/dgambie/GamBieClocK
 
